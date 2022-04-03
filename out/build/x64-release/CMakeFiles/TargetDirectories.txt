@@ -1,0 +1,5 @@
+C:/Users/pepi1/source/repos/FileSearch/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/pepi1/source/repos/FileSearch/out/build/x64-release/CMakeFiles/rebuild_cache.dir
+C:/Users/pepi1/source/repos/FileSearch/out/build/x64-release/SPRProject/CMakeFiles/SPRProject.dir
+C:/Users/pepi1/source/repos/FileSearch/out/build/x64-release/SPRProject/CMakeFiles/edit_cache.dir
+C:/Users/pepi1/source/repos/FileSearch/out/build/x64-release/SPRProject/CMakeFiles/rebuild_cache.dir

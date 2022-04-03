@@ -1,0 +1,15 @@
+# ninja log v5
+2	798	6706987844636036	SPRProject/CMakeFiles/SPRProject.dir/Program.cpp.obj	a8a9ff3a9b13a25c
+4	683	6706987843476088	SPRProject/CMakeFiles/SPRProject.dir/DataStore.cpp.obj	eeb808147741180b
+1	289	6706810519186201	SPRProject/CMakeFiles/SPRProject.dir/IOHelper.cpp.obj	e18582ca184fd304
+553	650	6706993243798731	SPRProject/SPRProject.exe	4ca5690d3c9d4b79
+14	825	6706807457698135	SPRProject/CMakeFiles/SPRProject.dir/FileData.cpp.obj	78cb1beb453c4135
+0	758	6706981575511882	SPRProject/CMakeFiles/SPRProject.dir/FileLoader.cpp.obj	5c35e6a49917a2c5
+0	553	6706993242978734	SPRProject/CMakeFiles/SPRProject.dir/Menu.cpp.obj	5433376e889e2634
+0	605	6706989704744583	SPRProject/CMakeFiles/SPRProject.dir/FileSearch.cpp.obj	6a6f76a9a8da3019
+1	555	6706993407851209	SPRProject/CMakeFiles/SPRProject.dir/Menu.cpp.obj	5433376e889e2634
+556	656	6706993408681233	SPRProject/SPRProject.exe	4ca5690d3c9d4b79
+0	559	6706993724192876	SPRProject/CMakeFiles/SPRProject.dir/Menu.cpp.obj	5433376e889e2634
+560	662	6706993725022885	SPRProject/SPRProject.exe	4ca5690d3c9d4b79
+0	646	6706994021895607	SPRProject/CMakeFiles/SPRProject.dir/Menu.cpp.obj	5433376e889e2634
+647	752	6706994022765606	SPRProject/SPRProject.exe	4ca5690d3c9d4b79

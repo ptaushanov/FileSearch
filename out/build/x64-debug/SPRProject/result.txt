@@ -1,0 +1,11 @@
+sample3.txt	1	art
+sample1.txt	20	art
+sample1.txt	22	art
+sample1.txt	24	art
+sample2.txt	14	art
+sample2.txt	16	art
+sample2.txt	29	art
+sample2.txt	36	art
+sample2.txt	38	art
+sample2.txt	41	art
+sample2.txt	42	art

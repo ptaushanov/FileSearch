@@ -1,0 +1,3 @@
+0	C:\Users\pepi1\Videos\Test\sample1.txt	137
+1	C:\Users\pepi1\Videos\Test\sample2.txt	117
+2	C:\Users\pepi1\Videos\Test\sample3.txt	3
